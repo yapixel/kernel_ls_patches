@@ -1,4 +1,4 @@
-[![Patches Check](https://github.com/TheSillyOk/kernel_ls_patches/actions/workflows/patches-check.yml/badge.svg)](https://github.com/TheSillyOk/kernel_ls_patches/actions/workflows/patches-check.yml)
+[![Patches Check](https://github.com/yapixel/kernel_ls_patches/actions/workflows/patches-check.yml/badge.svg)](https://github.com/yapixel/kernel_ls_patches/actions/workflows/patches-check.yml)
 
 Personal patches used when building in https://github.com/TheSillyOk/kernel_workflows
 
